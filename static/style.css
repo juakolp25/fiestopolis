@@ -125,3 +125,7 @@ body{
     color:  rgb(215, 218, 213);
     margin: auto;
 }
+
+.margin_auto{
+    margin: auto;
+}
