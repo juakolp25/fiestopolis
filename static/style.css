@@ -129,3 +129,15 @@ body{
 .margin_auto{
     margin: auto;
 }
+
+.padding-20{
+    padding: 20px;
+}
+
+.text_dec{
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+}
